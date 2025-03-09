@@ -1,0 +1,10 @@
+{
+    "station_name": "SomaFM Groove Salad",
+    "station_url": "https://ice1.somafm.com/groovesalad-128-mp3",
+    "timestamp": "2025-03-09 22:51:04",
+    "requested_duration": 9,
+    "estimated_duration": 9.0,
+    "file_format": "mp3",
+    "file_path": "./RadioWaveBench/audio/sample_03_SomaFM_Groove_Salad.mp3",
+    "file_size_bytes": 147456
+}

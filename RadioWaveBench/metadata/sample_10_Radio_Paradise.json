@@ -1,0 +1,10 @@
+{
+    "station_name": "Radio Paradise",
+    "station_url": "http://stream.radioparadise.com/mp3-128",
+    "timestamp": "2025-03-09 22:51:25",
+    "requested_duration": 5,
+    "estimated_duration": 5.0,
+    "file_format": "mp3",
+    "file_path": "./RadioWaveBench/audio/sample_10_Radio_Paradise.mp3",
+    "file_size_bytes": 81920
+}
